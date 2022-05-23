@@ -48,3 +48,13 @@ Jenkins -
 Spring Mail - 
 
 Rapid API : Spoonacular API (Recipe - Food - Nutrition)
+
+TEAM MEMBERS:
+
+  • Aneesh Chulliparambil Mohanan
+  
+  • Anju Naduthuruthel Kumaran
+  
+  • Daryl Nauman
+  
+  • Nusrat Rahman
