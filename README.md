@@ -1,6 +1,6 @@
 # WHAT CAN I MAKE TO EAT
 ## Table of Contents:
-[Description](#description)  |  [Recipe API](#-recipe-api)  |  [Email API](#-email-api)  |  [Technologies Used](#-technologies-used)  |  [Team Members](#-Team-Members)
+[Description](#description)  |  [Recipe API](#recipe-api)  |  [Email API](#email-api)  |  [Technologies Used](#technologies-used)  |  [Team Members](#team-members)
 
 ## Description
 People are often looking for ideas of what to make to eat. Users can log into this application and provide a list of ingredients they have on hand to receive recipe suggestions based on those ingredients. They can view full recipe details and choose to have recipes they like emailed to them. In addition, users can sign up to receive a daily email that contains one recipe that matches preferences they provide.
